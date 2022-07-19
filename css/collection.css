@@ -142,7 +142,7 @@ button {
     font-family: 'Noto Sans KR';
     font-style: normal;
     font-weight: 700;
-    font-size: 12px;
+    font-size: 14px;
     line-height: 17px;
     display: block;
     text-align: center;
@@ -162,7 +162,7 @@ button {
   .collection-recommend {
     /* position: absolute; */
     width: 100%;
-    height: auto;
+    /* height: auto; */
     left: 0px;
     top: 130px;
     display: flex;
@@ -186,7 +186,7 @@ button {
   /* top: 315px; */
   margin-top: 60px;
   outline: 1px solid red;
-
+  margin-bottom: 100px;
   }
   .movie {
     float: left;
